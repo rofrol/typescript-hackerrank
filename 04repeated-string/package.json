@@ -1,0 +1,25 @@
+{
+  "name": "TypeScript 3 Fundamentals v2 2019 - learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rofrol/TypeScript_3_Fundamentals_v2_2019-learning.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Roman Frołow <rofrol@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rofrol/TypeScript_3_Fundamentals_v2_2019-learning/issues"
+  },
+  "homepage": "https://github.com/rofrol/TypeScript_3_Fundamentals_v2_2019-learning#readme",
+  "dependencies": {
+    "@types/node": "^13.1.8"
+  }
+}
